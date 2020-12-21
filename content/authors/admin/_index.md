@@ -6,7 +6,7 @@ title: Yiliang Zhang
 superuser: true
 
 # Role/position/tagline
-role: 3rd year PhD Student in Applied Math and Computational Science
+role: 3rd year PhD Student in AMCS
 
 # Organizations/Affiliations to show in About widget
 organizations:
